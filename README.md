@@ -1,7 +1,7 @@
 # 🏆 Achievements
 ---
 ## Mathematics Olympiad Achievement
-
+Ed
 📅 Date: 2023  
 
 ### 📌 Description
@@ -18,8 +18,7 @@ Participated in the regional "Sirdaryo Daholari" mathematics olympiad at the dis
 ### 📍 Location
 Sirdaryo, Uzbekistan  
 
-### Image
-![Certificate](<img width="1080" height="1920" alt="image" src="https://github.com/user-attachments/assets/9f338e40-c5e0-44fc-8316-3fe2907d7044" />
-)
+<img width="1080" height="803" alt="image" src="https://github.com/user-attachments/assets/3f86af3f-86d6-4ab9-9b87-220cad3376aa" />
+
 
 ---
